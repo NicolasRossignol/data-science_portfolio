@@ -1,5 +1,4 @@
 # Data Science Portfolio
-*Work in Progress*
 
 Portfolio showcasing some of my data science projects
  presented in iPython Notebooks.
@@ -14,3 +13,6 @@ This project uses the openfoodfacts online database and aims at assessing the nu
 
 [Distances and categorical variables: Movie Recommendation](https://github.com/NicolasRossignol/data-science_portfolio/blob/master/Movie_recommendation/1.Movie_Recommendation.ipynb):
 This project uses some data from IMDB website to build a simple recommendation algorithm returning a list of movies similar to the target. The project focuses on distance computation on categorical variables and on the use of data standardization and transformation.
+
+[Clustering: Customer segmentation](https://github.com/NicolasRossignol/data-science_portfolio/blob/master/Customer_segmentation/Customer_Segmentation.ipynb):
+This project uses the records of the purchases on an (imaginary) online shop to build a dataset describing customers and then to group customers into different clusters based on their buying habits.
