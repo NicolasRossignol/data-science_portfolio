@@ -16,3 +16,6 @@ This project uses some data from IMDB website to build a simple recommendation a
 
 [Clustering: Customer segmentation](https://github.com/NicolasRossignol/data-science_portfolio/blob/master/Customer_segmentation/Customer_Segmentation.ipynb):
 This project uses the records of the purchases on an (imaginary) online shop to build a dataset describing customers and then to group customers into different clusters based on their buying habits.
+
+[Supervised classification](https://github.com/NicolasRossignol/data-science_portfolio/blob/master/Customer_segmentation/ClassificationModel.ipynb):
+Based on customer segments. Comparisons of performances between SVM, RandomForest and GradientBoosting classifiers. Use of pipelines and cross-validation procedures for accurate results.
