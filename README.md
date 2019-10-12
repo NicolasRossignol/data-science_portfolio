@@ -19,3 +19,6 @@ This project uses the records of the purchases on an (imaginary) online shop to 
 
 [Supervised classification](https://github.com/NicolasRossignol/data-science_portfolio/blob/master/Customer_segmentation/ClassificationModel.ipynb):
 Based on customer segments. Comparisons of performances between SVM, RandomForest and GradientBoosting classifiers. Use of pipelines and cross-validation procedures for accurate results.
+
+[Regression: Predicting flight delays](https://github.com/NicolasRossignol/data-science_portfolio/blob/master/Flight_delays.ipynb):
+This project uses data from the Bureau of Transportation Statistics to build a predictive model of flight delays. The model used is a Ridge regression model. Use of a composite pipeline to handle different pre-processing steps and cross-validation procedure. *Work in progress*
